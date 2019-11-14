@@ -1,6 +1,6 @@
 # wspr-database-to-mysql
 
-Rename the file to be imported with the name of your Mysql table.
+Rename the file to be imported with the name of your Mysql table and change it also at the end below. (wspr.csv).
 
 and run this:
 
