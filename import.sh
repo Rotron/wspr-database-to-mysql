@@ -11,4 +11,3 @@ done < wsprspots-2019-11.csv | /Applications/MAMP/Library/bin/mysql -u root -pro
 
 
 
-
