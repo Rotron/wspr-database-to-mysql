@@ -1,4 +1,4 @@
-# wspr-database-to-mysql
+# wspr-database-to-mysql-and-mongodb
 
 Rename the file to be imported with the name of your Mysql table and change it also at the end below. (wspr.csv).
 
